@@ -1,0 +1,17 @@
+{
+  "name": "imageresizer",
+  "productName": "Image Resizer",
+  "version": "1.0.0",
+  "description": "Resize Image",
+  "main": "main.js",
+  "scripts": {
+    "start":"electron ."
+  },
+  "author": "Puneet",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^29.1.4",
+    "resize-img": "^2.0.0",
+    "toastify-js": "^1.12.0"
+  }
+}
